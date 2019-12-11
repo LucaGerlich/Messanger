@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client_main",
+            "request": "launch",
+            "mainClass": "Client_Main.Client_main",
+            "projectName": "Messenger"
+        }
+    ]
+}
